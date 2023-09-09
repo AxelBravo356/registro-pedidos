@@ -1,6 +1,6 @@
 # Registro de Pedidos
 
-Esta aplicación web (CRUD) funciona con una base de datos contectada a MySQL. Guarda, edita y borra datos como el titular del pedido, el monto a pagar y la descripción.
+Esta aplicación web (CRUD) funciona con una base de datos conectada a MySQL. Guarda, edita y borra datos como el titular del pedido, el monto a pagar y la descripción.
 
 # Requerimientos
 
